@@ -52,18 +52,3 @@ if __name__== "__main__":
     
     print("Goodbye")
 
-# Hoje desenvolvi um pequeno projeto de lista de tarefas (To-Do List) no terminal, utilizando apenas Python puro.
-
-# Com ele, é possível: ✅ Adicionar novas tarefas
-# 🗑️ Deletar tarefas específicas
-# 📋 Listar todas as tarefas
-
-# Tudo isso rodando em loop no terminal, com interações simples e práticas — ideal para quem está começando ou quer reforçar a lógica de programação e estruturas básicas como listas, funções e controle de fluxo.
-
-# 🔧 Ferramentas utilizadas:
-
-# Python 3
-
-# Terminal (CLI)
-
-# Esse tipo de projeto, mesmo sendo simples, é um ótimo exercício para desenvolver raciocínio lógico e habilidades com entrada e saída de dados!
